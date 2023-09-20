@@ -1,0 +1,19 @@
+{
+    "name": "aoc",
+    "version": "1.0.0",
+    "description": "Advent of Code 2017 solutions",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "t"
+    },
+    "keywords": [
+        "aoc"
+    ],
+    "author": "Bleen",
+    "license": "ISC",
+    "dependencies": {
+        "aoc-loader": "^1.4.4",
+        "dotenv": "^16.0.3"
+    }
+}
