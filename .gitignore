@@ -1,0 +1,5 @@
+.env
+*.dat
+*~
+/node_modules
+*lock*
